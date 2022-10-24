@@ -10,6 +10,9 @@ Cursando: Ciência da Computação ([UFAM](https://ufam.edu.br/))
 
 Cursando: Desenvolvimento Web Full-Stack ([Driven Education](https://www.driven.com.br/))
 
+Conhecimentos:
+Nodejs Reactjs Javascript Typescript html css Postgresql Mongodb Git Docker aws
+
 #web #fullstack #javascript #node #react #java #kotlin #android
 <!--
 **CarlosWTMachado/CarlosWTMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
