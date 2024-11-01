@@ -2,16 +2,16 @@
 
 ## **Seja bem-vindo(a)!**
 
-Desenvolvedor Web Full-Stack e Android, cursando Ciência da Computação na [UFAM](https://ufam.edu.br/) e Desenvolvimento Web Full-Stack na [Driven Education](https://www.driven.com.br/). Alem de cursos: APEX; Android Embarcado; Desenvolvimento Android com Kotlin; Banco de Dados Oracle. 
+Desenvolvedor Web Full-Stack e Android, formado em Desenvolvimento Web Full-Stack na [Driven Education](https://www.driven.com.br/) e cursando Ciência da Computação na [FAM](https://www.vemprafam.com.br/sobre-a-fam/). Alem de cursos: APEX; Android Embarcado; Desenvolvimento Android com Kotlin; Banco de Dados Oracle. Atualmente estudando desenvolvimento de jogos com UNITY.
+
+Formado: Desenvolvimento Web Full-Stack ([Driven Education](https://www.driven.com.br/))
 
 Formado: Técnico em Informática ([IEMAC](https://institutoemac.com.br/))
 
-Cursando: Ciência da Computação ([UFAM](https://ufam.edu.br/))
-
-Cursando: Desenvolvimento Web Full-Stack ([Driven Education](https://www.driven.com.br/))
+Cursando: Ciência da Computação ([FAM](https://www.vemprafam.com.br/sobre-a-fam/))
 
 Conhecimentos:
-Nodejs Reactjs Javascript Typescript html css Postgresql Mongodb Git Docker aws
+Nestjs Reactjs Nodejs Javascript Typescript html css Postgresql Mongodb Git Docker aws
 
 #web #fullstack #javascript #node #react #java #kotlin #android
 <!--
