@@ -2,7 +2,7 @@
 
 ## **Seja bem-vindo(a)!**
 
-Desenvolvedor Web Full-Stack e Android, formado em Desenvolvimento Web Full-Stack na [Driven Education](https://www.driven.com.br/) e cursando Ciência da Computação na [FAM](https://www.vemprafam.com.br/sobre-a-fam/). Alem de cursos: APEX; Android Embarcado; Desenvolvimento Android com Kotlin; Banco de Dados Oracle. Atualmente estudando desenvolvimento de jogos com UNITY.
+Desenvolvedor Web Full-Stack e Android, formado em Desenvolvimento Web Full-Stack na [Driven Education](https://www.driven.com.br/) e cursando Ciência da Computação na [FAM](https://www.vemprafam.com.br/sobre-a-fam/). Alem de cursos: APEX; Android Embarcado; Desenvolvimento Android com Kotlin; Banco de Dados Oracle.
 
 Formado: Desenvolvimento Web Full-Stack ([Driven Education](https://www.driven.com.br/))
 
