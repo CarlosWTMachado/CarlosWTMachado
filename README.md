@@ -10,7 +10,7 @@ Formado: Técnico em Informática ([IEMAC](https://institutoemac.com.br/))
 
 Cursando: Ciência da Computação ([FAM](https://www.vemprafam.com.br/sobre-a-fam/))
 
-[![Top Langs](https://github-readme-stats-i5tu-1.vercel.app/api/top-langs/?username=CarlosWTMachado&layout=pie)](https://github.com/CarlosWTMachado/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats-i5tu-1.vercel.app/api/top-langs/?username=CarlosWTMachado&layout=pie)](https://github.com/CarlosWTMachado/github-readme-stats)-->
 
 Conhecimentos:
 Nestjs Reactjs Nodejs Javascript Typescript html css Postgresql Mongodb Git Docker aws
