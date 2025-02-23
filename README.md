@@ -1,4 +1,4 @@
-# *Carlos William Torres Machado* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/CarlosWTMachado/?locale=pt_BR)](https://www.linkedin.com/in/carlos-william-torres-machado-05a843183/?locale=pt_BR)
+# *Carlos William Torres Machado* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/CarlosWTMachado/?locale=pt_BR)](https://www.linkedin.com/in/carloswtmachado/?locale=pt_BR)
 
 ## **Seja bem-vindo(a)!**
 
